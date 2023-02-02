@@ -14,3 +14,6 @@ This is one of my silly projects. It can do several effects:
 - All at once: this effect is the most fun. Upload any picture, that then will be processed and split into triangles. After that all the triangles will be drawn with the single colour, so you can create triangular pictures.
 
 Work with jpg and png.
+
+
+THIS IS TEST FOR BRANCHES
